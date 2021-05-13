@@ -17,6 +17,7 @@ jobs:
       - name: Fontship make
         id: fontship
         uses: docker://theleagueof/fontship:v0.6.2
+        run: fontship make static
       - name: Upload artifacts
         uses: actions/upload-artifact@v2
         with:
