@@ -9,11 +9,18 @@
 
 _by [Tré Seals](https://www.vocaltype.co)_
 
+The open-source release of The Neue Black is in partnership with designer Tré Seals of Vocal Type Co. The Neue Black is a display sans serif with a robust character set that has over 25 ligatures and various inktrap alternates. 
 
-The open-source release of The Neue Black is in partnership with designer Tre Seals of Vocal Type Co. The Neue Black has a robust character set with over 25 ligatures and various inktrap alternates. The effortlessly powerful presence The Neue Black is no coincidence. The Neue Blacks letterforms are inspired by the banners created for the 1960s advocacy campaign, the Chicago Freedom Movement. 
 
-Created in 2020, The Neue Black is based on the signage from the Chicago Freedom Movement, a advocacy campaign spearheaded by Martin Luther King Jr and the Southern Christian Leadership Conference (SCLC). The campaign marked the expansion of their civil rights activities from the South to northern cities. At the center of their campaign, they targeted racial discrimination in housing and racist hiring practices by companies in African American neighborhoods. 
 
-The campaign had gained momentum through demonstrations and marches, when race riots erupted on Chicagos West Side in July 1966. During a march through an all-white neighborhood on August 5th, black demonstrators were met with hostility. Bottles and bricks were thrown at them, and King was struck by a rock. Afterward, he noted: I have seen many demonstrations in the south but I have never seen anything so hostile and so hateful as Ive seen here today. 
+Created in 2020, The Neue Black is based on the signage from the Chicago Freedom Movement, an advocacy campaign spearheaded by Martin Luther King Jr. and the Southern Christian Leadership Conference (SCLC). The campaign marked the expansion of their civil rights activities from the South to the northern cities. At the center of their campaign, they targeted racial discrimination in housing and racist hiring practices by companies in African American neighborhoods.
 
-By late August, Chicagos Mayor Daley was eager to find a way to end the demonstrations. After negotiating with King and various housing boards, an agreement was announced in which the Chicago Housing Authority promised to build public housing with limited height requirements, and the Mortgage Bankers Association agreed to make mortgages available regardless of race. Following the summit agreement, some SCLC staff stayed in Chicago to assist in housing programs and voter registration. King himself stayed in Chicago until January 1967. The campaigns goals were met with some success, though city officials failed to take concrete steps to address issues of housing despite the summit agreement.
+
+
+The campaign had gained momentum through demonstrations and marches when race riots erupted on Chicago’s West Side in July 1966. During a march through an all-white neighborhood on August 5th, Black demonstrators were met with hostility. Bottles and bricks were thrown at them, and King was struck by a rock. Afterward, he noted: I have seen many demonstrations in the South but I have never seen anything so hostile and so hateful as I’ve seen here today.
+
+
+
+By late August, Chicago’s Mayor Daley was eager to find a way to end the demonstrations. After negotiating with King and various housing boards, an agreement was announced in which the Chicago Housing Authority promised to build public housing with limited height requirements, and the Mortgage Bankers Association agreed to make mortgages available regardless of race. Following the summit agreement, some SCLC staff stayed in Chicago to assist in housing programs and voter registration. King himself stayed in Chicago until January 1967. The campaign’s goals were met with some success, though city officials failed to take concrete steps to address issues of housing despite the summit agreement.
+
+
