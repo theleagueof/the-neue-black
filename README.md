@@ -1,7 +1,7 @@
-![The Neue Black](https://user-images.githubusercontent.com/25366/122106064-73ddfe80-cde7-11eb-8c7d-c8997bbd7264.png)
+[![The Neue Black](https://user-images.githubusercontent.com/25366/122106064-73ddfe80-cde7-11eb-8c7d-c8997bbd7264.png)](https://www.theleagueofmoveabletype.com/the-neue-black)
 
 
-# The Neue Black
+# [The Neue Black](https://www.theleagueofmoveabletype.com/the-neue-black)
 
 [![Latest Release](https://img.shields.io/github/v/release/theleagueof/the-neue-black?label=Download%20Release&logo=Github)](https://github.com/theleagueof/the-neue-black/releases/latest)
 [![All Releases](https://img.shields.io/github/downloads/theleagueof/the-neue-black/total)](https://github.com/theleagueof/the-neue-black/releases)
