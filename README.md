@@ -24,3 +24,5 @@ The campaign had gained momentum through demonstrations and marches when race ri
 By late August, Chicago’s Mayor Daley was eager to find a way to end the demonstrations. After negotiating with King and various housing boards, an agreement was announced in which the Chicago Housing Authority promised to build public housing with limited height requirements, and the Mortgage Bankers Association agreed to make mortgages available regardless of race. Following the summit agreement, some SCLC staff stayed in Chicago to assist in housing programs and voter registration. King himself stayed in Chicago until January 1967. The campaign’s goals were met with some success, though city officials failed to take concrete steps to address issues of housing despite the summit agreement.
 
 
+
+&rarr; **[Test it out on The League's site](https://www.theleagueofmoveabletype.com/the-neue-black)**
