@@ -1,0 +1,7 @@
+    sources:
+        - The-Neue-Black.glyphs
+    outputDir: "../fonts"
+    familyName: The Neue Black
+    buildVariable: false
+
+
